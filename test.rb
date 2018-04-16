@@ -7,4 +7,5 @@ def tech_interview(array)
 end
 
 tech_interview([1, 2, 3])
+
   
