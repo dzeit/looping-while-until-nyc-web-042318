@@ -1,5 +1,5 @@
 def tech_interview(array)
-  if array[0] == even
+  if array[0].even?
     puts "even"
   else
     puts "odd"
